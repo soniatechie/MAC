@@ -1,0 +1,38 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Sonia",
+      "surnames": "Garcia Alcaraz",
+      "description": "I have never worked in tech. Last year I finished a master's degree in industrial automation and robotics, since then I have been looking for a job, but it seems that I haven't the profile searched by companies. I thought it is because I haven’t a background in electricity neither in programming. Therefore I decided to learn how to code. Since I wanted to learn programming as well as find a job, I thought that the better path was to become a web developer, because it seems that it is an in-demand job, but the learning curve is acceptable if you want to change your career path in 1 - 2 years. I’m doing a javascript course right now. Further info, I studied chemical engineering more than 8 years ago and since then I’m working in a company that manufactures toys, taking care of the safety of them. I’m used to reading and writing in English but I need to improve my communication skill."
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/sogaral/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/Esemega"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/So_oni"
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/sogaral/"
+        }
+      ]
+    }
+  }
+}
