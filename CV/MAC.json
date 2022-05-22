@@ -9,16 +9,9 @@
       "name": "Sonia",
       "surnames": "Garcia Alcaraz",
       "title": "Frontend Developer",
-      "description": "Recently, I changed my career path from manufacturing sector to tech.",
-      "location": {
-        "notes": ""
-      }
+      "description": "Recently, I changed my career path from manufacturing sector to tech."
     },
     "relevantLinks": [
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/sogaral/"
-      },
       {
         "type": "github",
         "URL": "https://github.com/Esemega"
@@ -26,6 +19,10 @@
       {
         "type": "twitter",
         "URL": "https://twitter.com/So_oni"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/sogaral/"
       }
     ]
   },
@@ -39,11 +36,6 @@
           {
             "name": "Frontend Developer",
             "startDate": "2022-03-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
             "competences": [
               {
                 "name": "React",
@@ -55,12 +47,62 @@
       }
     ]
   },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Catalan"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio",
+          "type": "technology"
+        }
+      }
+    ]
+  },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
         {
           "type": "linkedin",
           "URL": "https://www.linkedin.com/in/sogaral/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "React",
+          "type": "technology"
         }
       ]
     }
