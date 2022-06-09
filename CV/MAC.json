@@ -92,12 +92,6 @@
           "name": "Git",
           "type": "technology"
         }
-      },
-      {
-        "skill": {
-          "name": "Visual Studio",
-          "type": "technology"
-        }
       }
     ]
   },
