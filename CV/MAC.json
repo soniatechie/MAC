@@ -83,6 +83,18 @@
       },
       {
         "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Visual Studio",
           "type": "technology"
         }
