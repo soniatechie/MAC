@@ -9,7 +9,7 @@
       "name": "Sonia",
       "surnames": "Garcia Alcaraz",
       "title": "Frontend Developer",
-      "description": "Recently, I changed my career path from manufacturing sector to tech."
+      "description": "Soy una persona curiosa y me gusta aprender cosas nuevas."
     },
     "relevantLinks": [
       {
@@ -23,6 +23,12 @@
       {
         "type": "linkedin",
         "URL": "https://www.linkedin.com/in/sogaral/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "En mi otra vida…",
+        "fact": "Trabajé casi 10 años en el departamento de calidad de una empresa fabricante de juguetes."
       }
     ]
   },
