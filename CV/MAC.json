@@ -41,13 +41,7 @@
         "roles": [
           {
             "name": "Frontend Developer",
-            "startDate": "2022-03-01",
-            "competences": [
-              {
-                "name": "React",
-                "type": "technology"
-              }
-            ]
+            "startDate": "2022-03-01"
           }
         ]
       }
