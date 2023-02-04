@@ -17,7 +17,7 @@
     "relevantLinks": [
       {
         "type": "github",
-        "URL": "https://github.com/Esemega"
+        "URL": "https://github.com/soniatechie"
       },
       {
         "type": "twitter",
@@ -39,8 +39,7 @@
     "jobs": [
       {
         "organization": {
-          "name": "NTT Data",
-          "URL": ""
+          "name": "NTT Data"
         },
         "roles": [
           {
@@ -49,6 +48,28 @@
             "challenges": [
               {
                 "description": ""
+              }
+            ],
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Ionic",
+                "type": "technology"
+              },
+              {
+                "name": "Kiuwan",
+                "type": "technology"
+              },
+              {
+                "name": "MaterialUI",
+                "type": "technology"
+              },
+              {
+                "name": "SonarQube",
+                "type": "technology"
               }
             ]
           }
@@ -119,6 +140,57 @@
           "name": "Git",
           "type": "technology"
         }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Máster Frontend ",
+        "startDate": "2022-01-01",
+        "finishDate": "2022-08-01",
+        "institution": {
+          "name": "Lemoncode Formación ",
+          "description": "",
+          "image": {
+            "alt": "C50AF7CE-C1A2-4B24-BFC4-B3AD0FFC9FA1.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/04/11bc989a-1a89-4c9f-856f-70a54713308d_c50af7ce-c1a2-4b24-b.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Cypress",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "Jest",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          },
+          {
+            "name": "Webpack",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
