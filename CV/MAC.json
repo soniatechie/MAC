@@ -9,11 +9,7 @@
       "name": "Sonia",
       "surnames": "Garcia Alcaraz",
       "title": "Frontend Developer",
-      "description": "Soy una persona curiosa y me gusta aprender cosas nuevas.",
-      "avatar": {
-        "alt": "",
-        "link": ""
-      },
+      "description": "Hace poco que cambié mi trayectoria profesional y cada día me doy cuenta que me encanta programar y me encanta ir aprendiendo todo lo relacionado con este mundo.\nHe participado en el desarrollo de una app (web y mobile) de seguros y una web back-office de banca. El stack utilizado ha sido Angular, con diferentes librerías de componentes, aunque estoy abierta a trabajar con el stack que sea.\nHe trabajado con metodologías agile y CI/CD. Me gusta la filosofía de “You build it, you run it”, pudiendo desplegar mi propio código de forma autónoma (sin romper nada).\n",
       "location": {
         "notes": "Autocompleted using Google Maps API"
       }
@@ -64,11 +60,15 @@
     "languages": [
       {
         "name": "Catalan",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "English",
         "level": "Limited working proficiency"
       },
       {
         "name": "Spanish",
-        "level": "Limited working proficiency"
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -135,6 +135,6 @@
         "Full-stack Developer"
       ]
     },
-    "status": "openToOffers"
+    "status": "searchingActively"
   }
 }
