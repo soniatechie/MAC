@@ -47,6 +47,11 @@
           {
             "name": "Frontend Developer",
             "startDate": "2022-03-01",
+            "challenges": [
+              {
+                "description": "Integración de microservicios en webapps desarrolladas con Angular 11, a partir de un diseño o de requisitos, tests unitarios con Jasmine/ Karma, calidad del software con Sonar o Kiuwan, CI/CD con git y Jenkins."
+              }
+            ],
             "competences": [
               {
                 "name": "Angular2+",
@@ -74,6 +79,10 @@
               },
               {
                 "name": "SonarQube",
+                "type": "technology"
+              },
+              {
+                "name": "WebComponents",
                 "type": "technology"
               }
             ]
