@@ -104,18 +104,6 @@
       },
       {
         "skill": {
-          "name": "Visual Studio Code",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "TypeScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "React",
           "type": "technology"
         }
@@ -134,13 +122,37 @@
       },
       {
         "skill": {
-          "name": "Angular2+",
+          "name": "Jenkins",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio Code",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jasmine",
           "type": "technology"
         }
       }
