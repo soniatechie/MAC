@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -13,8 +13,7 @@
       "location": {
         "country": "España",
         "region": "Comunidad Valenciana",
-        "municipality": "Alicante (Alacant)",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Alicante (Alacant)"
       }
     },
     "relevantLinks": [
@@ -48,11 +47,6 @@
           {
             "name": "Frontend Developer",
             "startDate": "2022-03-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
             "competences": [
               {
                 "name": "Angular2+",
@@ -60,6 +54,14 @@
               },
               {
                 "name": "Ionic",
+                "type": "technology"
+              },
+              {
+                "name": "Jasmine",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
                 "type": "technology"
               },
               {
@@ -83,16 +85,13 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Catalan",
-        "level": "Native or bilingual proficiency"
+        "name": "Catalan"
       },
       {
-        "name": "English",
-        "level": "Limited working proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -166,7 +165,6 @@
         "finishDate": "2022-08-01",
         "institution": {
           "name": "Lemoncode Formación ",
-          "description": "",
           "image": {
             "alt": "C50AF7CE-C1A2-4B24-BFC4-B3AD0FFC9FA1.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/04/11bc989a-1a89-4c9f-856f-70a54713308d_c50af7ce-c1a2-4b24-b.png"
@@ -233,23 +231,6 @@
         "Frontend Developer",
         "Full-stack Developer"
       ]
-    },
-    "status": "searchingActively"
-  },
-  "asgardPreferences": {
-    "mainStackTechs": [
-      {
-        "name": "JavaScript",
-        "type": "technology"
-      },
-      {
-        "name": "TypeScript",
-        "type": "technology"
-      },
-      {
-        "name": "Git",
-        "type": "technology"
-      }
-    ]
+    }
   }
 }
