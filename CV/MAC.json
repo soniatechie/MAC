@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -9,11 +9,12 @@
       "name": "Sonia",
       "surnames": "Garcia Alcaraz",
       "title": "Frontend Developer",
-      "description": "Hace poco que cambié mi trayectoria profesional y cada día me doy cuenta que me encanta programar y me encanta ir aprendiendo todo lo relacionado con este mundo.\nHe participado en el desarrollo de una app (web y mobile) de seguros y una web back-office de banca. El stack utilizado ha sido Angular, con diferentes librerías de componentes, aunque estoy abierta a trabajar con el stack que sea.\nHe trabajado con metodologías agile y CI/CD. Me gusta la filosofía de “You build it, you run it”, pudiendo desplegar mi propio código de forma autónoma (sin romper nada).",
+      "description": "Hace poco que cambié mi trayectoria profesional y cada día me doy cuenta que me encanta programar y me encanta ir aprendiendo todo lo relacionado con este mundo.\nHe participado en el desarrollo de una app (web y mobile) de seguros y una web back-office de banca. El stack utilizado ha sido Angular, con diferentes librerías de componentes, aunque estoy abierta a trabajar con el stack que sea.\nHe trabajado con metodologías agile y CI/CD. Me gusta la filosofía de “You build it, you run it”, pudiendo desplegar mi propio código de forma autónoma.",
       "location": {
         "country": "España",
         "region": "Comunidad Valenciana",
-        "municipality": "Alicante (Alacant)"
+        "municipality": "Alicante (Alacant)",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -94,13 +95,16 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Catalan"
+        "name": "Catalan",
+        "level": "Native or bilingual proficiency"
       },
       {
-        "name": "English"
+        "name": "English",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -174,6 +178,7 @@
         "finishDate": "2022-08-01",
         "institution": {
           "name": "Lemoncode Formación ",
+          "description": "",
           "image": {
             "alt": "C50AF7CE-C1A2-4B24-BFC4-B3AD0FFC9FA1.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/04/11bc989a-1a89-4c9f-856f-70a54713308d_c50af7ce-c1a2-4b24-b.png"
@@ -240,6 +245,23 @@
         "Frontend Developer",
         "Full-stack Developer"
       ]
-    }
+    },
+    "status": "searchingActively"
+  },
+  "asgardPreferences": {
+    "mainStackTechs": [
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      },
+      {
+        "name": "Git",
+        "type": "technology"
+      }
+    ]
   }
 }
