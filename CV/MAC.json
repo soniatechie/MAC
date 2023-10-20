@@ -11,13 +11,23 @@
       "title": "Frontend Developer",
       "description": "Hace poco que cambié mi trayectoria profesional y cada día me doy cuenta que me encanta programar y me encanta ir aprendiendo todo lo relacionado con este mundo.\nHe participado en el desarrollo de una app (web y mobile) de seguros y una web back-office de banca. El stack utilizado ha sido Angular, con diferentes librerías de componentes, aunque estoy abierta a trabajar con el stack que sea.\nHe trabajado con metodologías agile y CI/CD. Me gusta la filosofía de “You build it, you run it”, pudiendo desplegar mi propio código de forma autónoma.",
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJS6udO9o1Yg0R44ELrHKofR0)",
         "country": "España",
         "region": "Comunidad Valenciana",
-        "municipality": "Alicante (Alacant)",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Alicante (Alacant)"
       }
     },
+    "interestingFacts": [
+      {
+        "topic": "En mi otra vida…",
+        "fact": "Trabajé casi 10 años en el departamento de calidad de una empresa fabricante de juguetes."
+      }
+    ],
     "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/sogaral/"
+      },
       {
         "type": "github",
         "URL": "https://github.com/soniatechie"
@@ -25,16 +35,6 @@
       {
         "type": "twitter",
         "URL": "https://twitter.com/soniatechie"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/sogaral/"
-      }
-    ],
-    "interestingFacts": [
-      {
-        "topic": "En mi otra vida…",
-        "fact": "Trabajé casi 10 años en el departamento de calidad de una empresa fabricante de juguetes."
       }
     ]
   },
@@ -95,34 +95,22 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Catalan",
+        "name": "CA",
         "level": "Native or bilingual proficiency"
       },
       {
-        "name": "English",
+        "name": "EN",
         "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "ES",
         "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "HTML",
+          "name": "Angular2+",
           "type": "technology"
         }
       },
@@ -134,7 +122,37 @@
       },
       {
         "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jasmine",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Jenkins",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
           "type": "technology"
         }
       },
@@ -149,24 +167,6 @@
           "name": "Visual Studio Code",
           "type": "technology"
         }
-      },
-      {
-        "skill": {
-          "name": "Git",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Angular2+",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Jasmine",
-          "type": "technology"
-        }
       }
     ],
     "studies": [
@@ -175,15 +175,14 @@
         "degreeAchieved": true,
         "name": "Máster Frontend ",
         "startDate": "2022-01-01",
-        "finishDate": "2022-08-01",
         "institution": {
           "name": "Lemoncode Formación ",
-          "description": "",
           "image": {
-            "alt": "C50AF7CE-C1A2-4B24-BFC4-B3AD0FFC9FA1.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/04/11bc989a-1a89-4c9f-856f-70a54713308d_c50af7ce-c1a2-4b24-b.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/04/11bc989a-1a89-4c9f-856f-70a54713308d_c50af7ce-c1a2-4b24-b.png",
+            "alt": "C50AF7CE-C1A2-4B24-BFC4-B3AD0FFC9FA1.png"
           }
         },
+        "finishDate": "2022-08-01",
         "linkedCompetences": [
           {
             "name": "CSS",
@@ -219,14 +218,51 @@
           }
         ]
       }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptabilidad al cambio",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Capacidad de autogestión",
+          "type": "practice"
+        }
+      }
     ]
   },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/sogaral/"
+          "URL": "https://www.linkedin.com/in/sogaral/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/soniatechie",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/soniatechie",
+          "type": "twitter"
+        }
+      ],
+      "contactMails": [
+        "sogaral89@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "618865331",
+          "countryCode": "+34"
         }
       ]
     },
@@ -248,8 +284,12 @@
     },
     "status": "searchingActively"
   },
-  "asgardPreferences": {
+  "manfredSpecificData": {
     "mainStackTechs": [
+      {
+        "name": "Git",
+        "type": "technology"
+      },
       {
         "name": "JavaScript",
         "type": "technology"
@@ -257,11 +297,8 @@
       {
         "name": "TypeScript",
         "type": "technology"
-      },
-      {
-        "name": "Git",
-        "type": "technology"
       }
-    ]
+    ],
+    "desiredJobDescription": "En mi idea de trabajo ideal tengo una ruta de aprendizaje y una carrera profesional definida donde puedo crecer y demostrar lo que valgo. Estoy cómoda trabajando en Frontend, pero estoy abierta a trabajar y aprender sobre otros perfiles como Backend, Devops o QA."
   }
 }
