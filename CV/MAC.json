@@ -50,7 +50,7 @@
             "startDate": "2022-03-01",
             "challenges": [
               {
-                "description": "Integración de microservicios en webapps desarrolladas con Angular 11, a partir de un diseño o de requisitos, tests unitarios con Jasmine/ Karma, calidad del software con Sonar o Kiuwan, CI/CD con git y Jenkins."
+                "description": "- Proyecto app de gestión de seguros para el cliente final – Mar 2022 / Sep 2022\nDesarrollo del frontal con Angular 12/ Ionic 5 partiendo del diseño en Zeplin y prototipo en Marvel, integración de servicios API-rest, resolución de incidencias a través de Jira, mejora de la calidad del código con Kiuwan, control de versiones con git-Bitbucked, generación del Web Component apuntando a diferentes entornos (DEV, PRE y PRO) y despliegue usando Jira/Jenkins o Sharepoint.\n\n- Proyecto app gestión importación, Backoffice – Sep 2022 / Mar 2023\nDesarrollo del frontal de dos aplicaciones BackOffice con Angular 11/ Material partiendo de historias de usuario, integración de microservicios, resolución de incidencias a través de Jira, mejora de la calidad del código con Sonar, test unitarios con Jasmine / Karma, CI/CD con git, Jenkins y OCP.\n\n- Proyecto Datos del sistema eléctrico español – Mar 2023 / actualidad\nMantenimiento y desarrollo de nuevas funcionalidades con Angular. Para los gráficos se utiliza la librería Highcharts. Partiendo del diseño en Figma. Back en PHP consumiendo los datos desde una API-rest. Control de versiones con Gitlab. Integración en Drupal."
               }
             ],
             "competences": [
