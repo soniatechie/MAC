@@ -52,6 +52,10 @@
               {
                 "name": "Angular2+",
                 "type": "technology"
+              },
+              {
+                "name": "RxJS",
+                "type": "technology"
               }
             ]
           }
