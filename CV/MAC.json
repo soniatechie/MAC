@@ -285,6 +285,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "Angular2+",
+          "type": "technology"
+        },
+        {
           "name": "React",
           "type": "technology"
         },
